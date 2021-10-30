@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+由于 $\sigma \left( \mathcal{C} \right)\in \Gamma$, 于是 $\Gamma \ne \varnothing$. 
+
 - Bulleted
 - List
 
